@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  GotApp
+
+  Created by Ola Skierbiszewska on 10.08.2016.
+  Copyright © 2016 Ola Skierbiszewska. All rights reserved.
+*/
+
+"noContentLabelText" = "No characters added to favourites.\n\n Swipe character on the main list \nto add it to fav.";
+"like" = "Like";
+"dislike" = "Dislike";
+"favs" = "Favourites";
+"all" = "All";
+"errorGettingData" = "No data has been retrieved";
+"readMore" = "Read more";
+"goToSafari" = "You will leave the app and go to Safari";
+"ok" = "OK";
+"cancel" = "Cancel";
+"noDetailsAvailable" = "No online source";
